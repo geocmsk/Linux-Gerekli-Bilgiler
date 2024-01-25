@@ -1,4 +1,4 @@
-# Linux-Gerekli-Bilgiler
+# BlockChain Node Kurulumu Yapanların İşine Çok Yarayacak Temel Linux Eğitimi
 
 Blockchain Node Kurulumunda Linux'un Önemi
 
